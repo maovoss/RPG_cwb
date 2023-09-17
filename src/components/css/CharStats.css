@@ -1,0 +1,21 @@
+.charStats{
+    height: 20%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 1rem;
+}
+.stats{
+    width: 60%;
+    height: 95%;
+    border: 1px solid black;
+    border-radius: 1rem;
+    margin-left: 0.9rem;
+}
+
+.itemsButton{
+    margin-right: 2rem;
+    height: 95%;
+    padding: 0.8rem;
+}

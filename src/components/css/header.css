@@ -1,0 +1,6 @@
+@import url('NavBar.css');
+.header{
+    width: 100vw;
+    height: 5rem;
+    background-color: rgba(247, 198, 133, 0.425);
+}

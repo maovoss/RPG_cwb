@@ -1,0 +1,37 @@
+.navBar{
+    height: 100%;
+
+}
+.buttons{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+}
+.button{
+    width: fit-content;
+    height: fit-content;
+    margin-left: 2rem;
+}
+.back{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    height: 1.5rem;
+    width: 1.5rem;
+    padding: .5rem;
+    margin: 1rem;
+    font-size: 2rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.exit{
+    width: 3rem;
+    height: 3rem;
+    font-size: x-large;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}

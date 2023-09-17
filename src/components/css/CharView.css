@@ -1,0 +1,32 @@
+.charInfo{
+    margin: 1rem;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.charView{
+    height: 70%;
+    width: 60%;
+    border: 1px solid black;
+    border-radius: 1rem;
+}
+.charItems{
+    height: 70%;
+    width: 18%;
+    
+}
+.itemList{ 
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    list-style: none;
+}
+.item{
+    border-radius: 1rem;
+    border: 1px solid black;
+    padding: 1.76rem;
+    text-align: center;
+}
